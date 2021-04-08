@@ -1,0 +1,6 @@
+[book]
+authors = ["Simon Scatton"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The naturL Programming Language"
