@@ -1,0 +1,6 @@
+[book]
+authors = ["Simon Scatton", "Rostan Tabet", "Vlad Argatu"]
+language = "fr"
+multilingual = false
+src = "src"
+title = "Le langage naturL"
