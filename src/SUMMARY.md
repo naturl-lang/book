@@ -1,3 +1,3 @@
-# Summary
+# Sommaire
 
-- [Chapter 1](./chapter_1.md)
+- [La langage naturl](./chapter_1.md)
